@@ -1,4 +1,8 @@
 /* Write your CSS Here. */
+body{
+  display: flex;
+  flex-wrap: wrap;
+}
 
 .card {
   margin: 10px;
